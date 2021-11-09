@@ -1,10 +1,14 @@
+@font-face {
+font-family: "Komika";
+src: url("font/KOMIKAH_.woff");
+}
+
 body{
    background-image: url(img/background.jpg);
    background-size: 75%;
+   font-family: "Komika";
 }
     ul li{
         color: #f2d450;
-        font-size: 24px;
-        font-weight: bold;
-      
+        font-size: 24px;      
 }
