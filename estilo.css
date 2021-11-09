@@ -8,6 +8,22 @@ body{
    background-size: 75%;
    font-family: "Komika";
 }
+   main{ 
+       display: flex;
+       align-items: center;
+   }
+.wonderclick {
+    display: flex; flex-direction: column;
+} 
+    ul {
+        -webkit-columns: 100 px 2;
+         -moz-columns: 100px 2;
+          columns: 100 px 2;
+           -webkit-column-gap: 20 px;
+            -moz-column-gap: 20px;
+             column-gap: 50 px ; 
+        
+    }
     ul li{
         color: #f2d450;
         font-size: 24px;      
@@ -24,5 +40,7 @@ button{
     border-style: none;
     border:  10px solid;
     border-color: #f2d450;
+    
+    
 
 }
