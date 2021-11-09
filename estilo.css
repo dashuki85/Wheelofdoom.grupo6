@@ -8,6 +8,7 @@ body{
    background-size: 75%;
    font-family: "Komika";
    display: flex;
+   height: 95vh;
 }
 
 img{
@@ -28,9 +29,9 @@ main{
 } 
 
 ul {
-    -webkit-columns: 100px 2;
-    -moz-columns: 100px 2;
-    columns: 100px 2;
+    -webkit-columns: 200px 2;
+    -moz-columns: 200px 2;
+    columns: 200px 2;
     -webkit-column-gap: 50px;
     -moz-column-gap: 50px;
     column-gap: 50px;    
