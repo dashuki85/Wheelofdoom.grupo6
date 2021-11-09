@@ -1,5 +1,4 @@
-h1 {
-    color: yellow;
-    display: flex;
-    justify-content: center;
+body{
+   background-image: url(img/background.jpg);
+   background-size: 75%;
 }
