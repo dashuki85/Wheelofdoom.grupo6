@@ -12,3 +12,17 @@ body{
         color: #f2d450;
         font-size: 24px;      
 }
+
+button{
+    font-family:"Komika";
+    background-color: rgba(8, 118, 182, 0.966);
+    color: #f2d450;
+    width: 300px; 
+    height: 100px;
+    font-size:24px;
+    border-radius: 20px;
+    border-style: none;
+    border:  10px solid;
+    border-color: #f2d450;
+
+}
