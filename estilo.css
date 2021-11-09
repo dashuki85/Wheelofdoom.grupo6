@@ -2,3 +2,9 @@ body{
    background-image: url(img/background.jpg);
    background-size: 75%;
 }
+    ul li{
+        color: #f2d450;
+        font-size: 24px;
+        font-weight: bold;
+      
+}
