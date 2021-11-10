@@ -3,12 +3,17 @@ font-family: "Komika";
 src: url("font/KOMIKAH_.woff");
 }
 
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body{
    background-image: url(img/background.jpg);
    background-size: 75%;
    font-family: "Komika";
    display: flex;
-   height: 95vh;
+   height: 100vh;
 }
 
 img{
@@ -54,7 +59,10 @@ button{
     border-style: none;
     border:  6px solid;
     border-color: #f2d450;
-    
-    
+}
 
+.wonderwoman-img img{
+    max-height:95vh;
+    border: #f2d450 solid 8px;
+    border-radius: 1%;
 }
